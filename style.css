@@ -1,0 +1,21 @@
+/*
+ Theme Name:   twentynineteen Child
+ Theme URI:    http://example.com/twentynineteen-child/
+ Description:  Twenty nineteen Child Theme
+ Author:       Isabu77
+ Author URI:   http://example.com
+ Template:     twentynineteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentynineteen-child
+*/
+
+.contact-section .container .row .col-md-4 {
+    display: none;
+}
+
+.contact-section .container .row .col-md-8 {
+    margin-left: 16.68%;
+}
